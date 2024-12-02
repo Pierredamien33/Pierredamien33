@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<div align='center'>
+<div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pierredamien33&theme=dark)](https://git.io/streak-stats)
 
