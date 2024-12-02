@@ -17,7 +17,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I play a lot of TCGs, especially Magic.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-damien-eichorn) **pierredamien33500@hotmail.fr**
+- :mailbox:How to reach me: **pierredamien33500@hotmail.fr** or [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-damien-eichorn) 
 
 ---
 
@@ -39,8 +39,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div align='center'>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pierredamien33&theme=dark)](https://git.io/streak-stats)
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Pierredamien33&theme=dark"  />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierredamien33&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
