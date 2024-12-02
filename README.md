@@ -2,13 +2,14 @@
 <h1 align="center">
 Hello world!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+I'm Pierre-Damien
 </h1>
 
 ---
 
 ### :man_technologist: About Me :
 
-I am Pierre-Damien Eichorn a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bordeaux, France.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bordeaux, France.
 
 - :telescope: I am currently working as a teacher and web developer for a school that trains future web and mobile developers.
 
@@ -16,7 +17,7 @@ I am Pierre-Damien Eichorn a Full Stack Developer <img src="https://media.giphy.
 
 - :zap: In my free time, I play a lot of TCGs, especially Magic.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-damien-eichorn)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-damien-eichorn) **pierredamien33500@hotmail.fr**
 
 ---
 
@@ -36,20 +37,11 @@ I am Pierre-Damien Eichorn a Full Stack Developer <img src="https://media.giphy.
 
 ### :fire: My Stats :
 
+<div align='center'>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pierredamien33&theme=dark)](https://git.io/streak-stats)
 
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Pierredamien33&theme=dark"  />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierredamien33&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Pierredamien33/Pierredamien33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
