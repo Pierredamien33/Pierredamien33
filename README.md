@@ -18,7 +18,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I play a lot of TCGs, especially Magic.
 
 - :mailbox:How to reach me: **pierredamien33500@hotmail.fr** or [LinkedIn](https://www.linkedin.com/in/pierre-damien-eichorn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/pierre-damien-eichorn)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
